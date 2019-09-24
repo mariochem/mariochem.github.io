@@ -1,3 +1,3 @@
 # mariochem.github.io
-Presentation
-this place is used to learn about GitHub
+this place is used to learn about GitHub.
+Make a presentation about projects are the main purpose.
