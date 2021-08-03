@@ -25,4 +25,4 @@ Having trouble with Pages? Check out the documentation at https://help.github.co
 
 ### **Site Grafico** - [Gráfico](https://mariochem.github.io/D3/)
 
-### **page 2** - [PAGE2](https://mariochem.github.io/projeto1.html/)
+### **page 2** - [PAGE2](https://mariochem.github.io/turismo.html/)
