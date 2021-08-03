@@ -24,4 +24,4 @@ You can @mention a GitHub username to generate a link to their profile. The resu
 Having trouble with Pages? Check out the documentation at https://help.github.com/pages or contact support@github.com and we’ll help you sort it out.
 
 #Site Grafico
-<link rel="stylesheet" href="https://mariochem.github.io/D3/">
+<link href="https://mariochem.github.io/D3/">
